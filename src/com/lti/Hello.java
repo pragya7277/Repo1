@@ -13,6 +13,8 @@ Date d =new Date();
 System.out.println(d);
 LocalDateTime dt=LocalDateTime.now();
 System.out.println(dt);
+String str="this is confusing";
+System.out.println(str);
 	}
 
 }
