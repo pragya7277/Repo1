@@ -13,8 +13,8 @@ Date d =new Date();
 System.out.println(d);
 LocalDateTime dt=LocalDateTime.now();
 System.out.println(dt);
-String str="this is irritating";
-System.out.println(str);
+String str1="this is irritating";
+System.out.println(str1);
 	}
 
 }
